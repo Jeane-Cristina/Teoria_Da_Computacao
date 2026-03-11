@@ -226,15 +226,4 @@ Esse conceito demonstra um princípio fundamental da criptografia moderna:
 
 > A segurança deve estar na **chave**, não no algoritmo.
 
----
-
-# Conclusão
-
-Esta atividade demonstra três conceitos fundamentais:
-
-* **Matemática discreta** — permutações e combinações
-* **Ciência da computação** — algoritmos e criptografia
-* **História** — comunicações militares durante a Segunda Guerra Mundial
-
-A máquina Enigma é um dos exemplos mais famosos de como matemática e computação podem influenciar eventos históricos.
 
