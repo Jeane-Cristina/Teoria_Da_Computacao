@@ -1,0 +1,75 @@
+# 🧠 Tese de Church-Turing  
+### O limite (e o poder) da computação
+
+---
+
+## 💡 Introdução
+
+Ao estudar os fundamentos da computação, um dos conceitos mais importantes é a **Tese de Church-Turing**.  
+Mais do que uma teoria abstrata, ela representa a base de tudo o que entendemos hoje como computação.
+
+---
+
+## 📖 O que diz a Tese de Church-Turing?
+
+A tese afirma que:
+
+> **Qualquer problema que pode ser resolvido por um processo lógico (algoritmo) pode ser resolvido por uma máquina computacional.**
+
+Esse conceito está diretamente ligado à **Máquina de Turing**, um modelo teórico criado para representar como uma máquina executa cálculos passo a passo.
+
+Mesmo sendo simples em sua estrutura (uma fita infinita e regras de leitura/escrita), essa máquina é capaz de simular qualquer algoritmo existente.
+
+---
+
+## ⚙️ Importância da Tese
+
+A Tese de Church-Turing é fundamental porque define os **limites da computação**:
+
+- ✔️ Problemas que podem ser descritos por algoritmos → podem ser resolvidos por computadores  
+- ❌ Problemas que não podem ser formalizados → não podem ser resolvidos computacionalmente  
+
+Isso significa que existem problemas que são **impossíveis de serem resolvidos**, independentemente do poder de processamento.
+
+---
+
+## 🧩 Aplicações no dia a dia
+
+Mesmo sendo uma teoria, ela está presente em diversas áreas da computação:
+
+- Desenvolvimento de sistemas  
+- Criação de algoritmos  
+- Inteligência artificial  
+- Automação de processos  
+
+Sempre que transformamos um problema em passos lógicos, estamos aplicando esse princípio.
+
+---
+
+## 🚀 Reflexão pessoal
+
+Entender a Tese de Church-Turing muda a forma de enxergar a programação.
+
+Programar deixa de ser apenas escrever código e passa a ser:
+
+> **Traduzir ideias e pensamentos em instruções que uma máquina consegue executar.**
+
+É como ensinar algo extremamente detalhado para alguém que só entende lógica — e nada além disso.
+
+---
+
+## 📌 Conclusão
+
+A Tese de Church-Turing continua sendo um dos pilares da computação moderna.  
+Ela não apenas explica o que os computadores podem fazer, mas também revela suas limitações.
+
+> **Nem todo problema tem solução computacional — mas todo problema solucionável pode ser programado.**
+
+---
+
+## 📚 Referência
+
+- Church, Alonzo  
+- Turing, Alan  
+
+---
